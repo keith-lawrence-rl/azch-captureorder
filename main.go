@@ -14,4 +14,3 @@ func main() {
 	beego.Run()
 }
 
-/* testing whether this kicks off a deployment automatically or not /*
